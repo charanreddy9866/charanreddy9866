@@ -6,13 +6,13 @@
 <h3 align="center">Database Assistant | Software Developer | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Database+Assistant;Software+Developer;Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data Analyst+;Software+Developer;Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+AI" />
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 💫 About Me
-- 🔭 Currently working as **Database Assistant at Miami Rescue Mission**
+- 🔭 Currently working as **Data Analyst at Miami Rescue Mission**
 - 🌱 Learning **AWS, System Design, and AI Engineering**
 - 💻 Passionate about **Data Analytics, Database Administration, and Full-Stack Development**
 - 📊 Building projects using **Python, SQL, Power BI, React, and AI**
